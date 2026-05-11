@@ -1,6 +1,8 @@
 Dream Vista Media
 
-🚀 A modern and responsive media agency website built with React.js and Tailwind CSS. Designed with smooth UI, engaging animations, and a professional user experience.
+🚀Dream Vista Media is a modern and responsive digital media agency website designed to represent a creative brand with premium UI/UX and smooth user interactions. The website focuses on showcasing media services, branding solutions, and creative digital experiences through a clean and professional interface.
+
+Built using React.js and Tailwind CSS, this project highlights modern frontend development techniques including responsive layouts, reusable components, smooth animations, and engaging visual design.
 
 🌐 Live Demo
 
